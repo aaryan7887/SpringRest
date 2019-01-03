@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BloodDonorBank
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Daryl
+Implementation-Vendor-Id: com.vm
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/BloodDonorBank
+Created-By: Maven Integration for Eclipse
+
